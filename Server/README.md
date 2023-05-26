@@ -1,10 +1,12 @@
-# MERN-E-Commerce
-
-MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
-
 ## Live Link
 
 You can access the live application at [Soon]().
+
+# MERN-E-Commerce-Backend
+
+MERN-E-Commerce-Backend is the backend of an e-commerce web application built with MongoDB, NodeJS, and ExpressJS.
+
+The frontend of the application is built with ReactJS, Material UI, React-router-dom,ContextAPI. The source code for the frontend can be found at [https://github.com/pradeep8577/MERN-E-Commerce](https://github.com/pradeep8577/MERN-E-Commerce).
 
 ## Features
 
@@ -19,10 +21,12 @@ You can access the live application at [Soon]().
 - Order history
 
 ## Tech Stack
-- MongoDB
+
 - ReactJS
+- MongoDB
 - NodeJS
 - ExpressJS
+
 ## Images
 
 ![Dashboard](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/Stat1_asehhd.png)
@@ -37,6 +41,35 @@ You can access the live application at [Soon]().
 ![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
 ![UserProfile](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/User_lyfday.png)
 
+## Tech Stack
+
+- ReactJS
+- MongoDB
+- NodeJS
+- ExpressJS
+
+## Installation and Usage
+
+To run the backend server on your local machine, follow these steps:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/pradeep8577/MERN-E-Commerce
+   ```
+
+2. Install the dependencies:
+
+   ```
+   cd Server
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```
+   npm run server
+   ```
 
 ## Contributing
 

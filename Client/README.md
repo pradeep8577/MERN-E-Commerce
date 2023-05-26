@@ -1,4 +1,4 @@
-# MERN-E-Commerce
+# MERN-E-Commerce-Frontend
 
 MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
 
@@ -37,6 +37,36 @@ You can access the live application at [Soon]().
 ![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
 ![UserProfile](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/User_lyfday.png)
 
+## Backend
+
+The backend of the application is built with NodeJS and ExpressJS and uses a MongoDB database to store the product and user data. The source code for the backend can be found at [https://github.com/pradeep8577/MERN-E-Commerce](https://github.com/pradeep8577/MERN-E-Commerce).
+
+
+
+## Installation and Usage
+
+To run the application on your local machine, follow these steps:
+
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/pradeep8577/MERN-E-Commerce
+   ```
+
+2. Install the dependencies:
+
+   ```
+   cd Client
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```
+   npm start
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ## Contributing
 
